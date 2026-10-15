@@ -1,0 +1,7 @@
+# Python
+__pycache__/
+*.py[cod]
+*.db
+*.pkl
+mlflow.db
+.env
